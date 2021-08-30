@@ -2,7 +2,7 @@ from funcoes import *
 
 
 def main():
-    fileName = input("nome do arquivo")
+    fileName = input("nome do arquivo   ")
     linelist = readLines(fileName)
     components = createComponents(linelist)
     maiorNo = matrixSize(components)
