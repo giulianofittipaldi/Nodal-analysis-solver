@@ -1,12 +1,12 @@
 # Nodal-analysis-solver
 
-##2021.1 - Circuitos elétricos 2
+## 2021.1 - Circuitos elétricos 2
 
-###Professora Fernanda Duarte Vilela Reis de Oliveira
+### Professora Fernanda Duarte Vilela Reis de Oliveira
 
-###Aluno Giuliano Prestes Fittipaldi
+### Aluno Giuliano Prestes Fittipaldi
 
-#Quick setup
+# Quick setup
 
 Create a `virtualenv`
 
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 Add a `netlist.txt` file in the same directory as `main.py`
 
-#How to use
+# How to use
 
 Launch the solver
 
